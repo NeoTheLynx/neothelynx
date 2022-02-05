@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Neo_LightningRL?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/Neo_LightningRL)
 [![Twitch Status](https://img.shields.io/twitch/status/neonlightninggaming?color=6441A4&logo=twitch&style=for-the-badge)](https://www.twitch.tv/neonlightninggaming)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/neonlightning?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/NeonLightning/)
-[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.neonlightning.ca)
+[![Discord Server](https://img.shields.io/discord/250131746358689792?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.neonlightning.ca)
 
 ### Github
 
