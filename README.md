@@ -6,9 +6,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbotJHuTzFLNQDG4Vo_UCiw?logo=youtube&style=for-the-badge&color=FF0000)](https://youtube.com/@neothelynx)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbotJHuTzFLNQDG4Vo_UCiw?label=Youtube%20Views&logo=youtube&style=for-the-badge&color=FF0000)](https://youtube.com/@neothelynx)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Neo_LightningRL?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/NeoTheLynx)
-[![Twitch Status](https://img.shields.io/twitch/status/neothrlynx?color=6441A4&logo=twitch&style=for-the-badge)](https://www.twitch.tv/neothelynx)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/neonlightning?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/NeonLightning/)
+[![Twitch Status](https://img.shields.io/twitch/status/neothelynx?color=6441A4&logo=twitch&style=for-the-badge)](https://www.twitch.tv/neothelynx)
 [![Discord Server](https://img.shields.io/discord/250131746358689792?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/invite/FHvQHr5QEf)
 
 ### Github
