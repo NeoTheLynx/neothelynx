@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Neon
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fneonlightning.ca)](https://neonlightning.ca)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fneothelynx.com)](neothelynx.com)
 
 ### Social
 
@@ -13,7 +13,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/neolightning?logo=github&style=for-the-badge)
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=neolightning&show_icons=true&custom_title=NeoLightning%20Github%20Stats&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=neothelynx&show_icons=true&custom_title=NeoTheLynx%20Github%20Stats&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Systems
 
