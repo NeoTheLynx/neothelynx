@@ -11,7 +11,7 @@
 
 ### Github
 
-![GitHub followers](https://img.shields.io/github/followers/neolightning?logo=github&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/neothelynx?logo=github&style=for-the-badge)
 
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=neothelynx&show_icons=true&custom_title=NeoTheLynx%20Github%20Stats&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
