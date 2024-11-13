@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Neon
+### Hi there 👋 I'm Neo
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fneothelynx.com)](neothelynx.com)
 
@@ -31,7 +31,7 @@
 
 [![Steam marterik231](https://img.shields.io/static/v1?label=STEAM&message=marterik231&style=for-the-badge&logo=steam "Steam marterik231")](https://steamcommunity.com/id/marterik231/)
 
-![Playstation lightningneon231](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white "Playstation NeoTheLynx")
+![Playstation NeoTheLynx](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white "Playstation NeoTheLynx")
 
 
 <!--
