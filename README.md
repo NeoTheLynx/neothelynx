@@ -17,12 +17,12 @@
 
 ### Systems
 
-![WINDOWS 10 PRO](https://img.shields.io/static/v1?label=OS&message=WINDOWS%2010%20PRO&color=00adef&logo=windows&style=for-the-badge "WINDOWS 10 PRO")
+![WINDOWS 11 PRO](https://img.shields.io/static/v1?label=OS&message=WINDOWS%2011%20PRO&color=00adef&logo=windows&style=for-the-badge "WINDOWS 11 PRO")
 ![AMD RYZEN 7 1700](https://img.shields.io/static/v1?label=AMD&message=RYZEN%207%201700&color=ED1C24&logo=amd&style=for-the-badge "AMD RYZEN 7 1700")
 ![AMD RADEON RX570](https://img.shields.io/static/v1?label=AMD&message=RADEON%20RX570&color=ED1C24&logo=amd&style=for-the-badge "AMD RADEON RX5700")
 ![RAM 16GB](https://img.shields.io/static/v1?label=RAM&message=16GB&color=00adef&style=for-the-badge "RAM 16GB")
 
-![WINDOWS 10 Home](https://img.shields.io/static/v1?label=OS&message=WINDOWS%2010%20HOME&color=00adef&logo=windows&style=for-the-badge "WINDOWS 10 Home")
+![WINDOWS 11 Home](https://img.shields.io/static/v1?label=OS&message=WINDOWS%2011%20HOME&color=00adef&logo=windows&style=for-the-badge "WINDOWS 11 Home")
 ![AMD RYZEN 7 3750H](https://img.shields.io/static/v1?label=AMD&message=RYZEN%207%203750H&color=ED1C24&logo=amd&style=for-the-badge "AMD RYZEN 7 3750H")
 ![NVIDIA GTX 1650](https://img.shields.io/static/v1?label=NVIDIA&message=GTX%201650&color=76b900&logo=nvidia&style=for-the-badge "NVIDIA GTX 1650")
 ![RAM 16GB](https://img.shields.io/static/v1?label=RAM&message=16GB&color=00adef&style=for-the-badge "RAM 16GB")
