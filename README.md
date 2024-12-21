@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Neo
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fneothelynx.com)](neothelynx.com)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fneothelynx.com)](https://neothelynx.com)
 
 ### Social
 
