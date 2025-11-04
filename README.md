@@ -18,9 +18,9 @@
 ### Systems
 
 ![WINDOWS 11 PRO](https://img.shields.io/static/v1?label=OS&message=WINDOWS%2011%20PRO&color=00adef&logo=windows&style=for-the-badge "WINDOWS 11 PRO")
-![AMD RYZEN 7 1700](https://img.shields.io/static/v1?label=AMD&message=RYZEN%207%201700&color=ED1C24&logo=amd&style=for-the-badge "AMD RYZEN 7 7700X")
-![AMD RADEON RX570](https://img.shields.io/static/v1?label=AMD&message=RADEON%20RX570&color=ED1C24&logo=amd&style=for-the-badge "AMD RADEON RX 9070 XT")
-![RAM 16GB](https://img.shields.io/static/v1?label=RAM&message=16GB&color=00adef&style=for-the-badge "RAM 32GB")
+![AMD RYZEN 7 7700X](https://img.shields.io/static/v1?label=AMD&message=RYZEN%207%207700X&color=ED1C24&logo=amd&style=for-the-badge "AMD RYZEN 7 7700X")
+![AMD RADEON RX 9070 XT](https://img.shields.io/static/v1?label=AMD&message=RADEON%20RX%209070%20XT&color=ED1C24&logo=amd&style=for-the-badge "AMD RADEON RX 9070 XT")
+![RAM 32GB](https://img.shields.io/static/v1?label=RAM&message=32GB&color=00adef&style=for-the-badge "RAM 32GB")
 
 ![KDE NEON](https://img.shields.io/static/v1?label=OS&message=KDE%20NEON&color=ff8500&logo=linux&style=for-the-badge "KDE NEON")
 ![AMD RYZEN 7 3750H](https://img.shields.io/static/v1?label=AMD&message=RYZEN%207%203750H&color=ED1C24&logo=amd&style=for-the-badge "AMD RYZEN 7 3750H")
