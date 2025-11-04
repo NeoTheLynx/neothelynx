@@ -22,7 +22,7 @@
 ![AMD RADEON RX570](https://img.shields.io/static/v1?label=AMD&message=RADEON%20RX570&color=ED1C24&logo=amd&style=for-the-badge "AMD RADEON RX 9070 XT")
 ![RAM 16GB](https://img.shields.io/static/v1?label=RAM&message=16GB&color=00adef&style=for-the-badge "RAM 32GB")
 
-![KDE NEON](https://img.shields.io/static/v1?label=OS&message=WINDOWS%2011%20HOME&color=00adef&logo=linux&style=for-the-badge "WINDOWS 11 Home")
+![KDE NEON](https://img.shields.io/static/v1?label=OS&message=WINDOWS%2011%20HOME&color=00adef&logo=linux&style=for-the-badge "KDE NEON")
 ![AMD RYZEN 7 3750H](https://img.shields.io/static/v1?label=AMD&message=RYZEN%207%203750H&color=ED1C24&logo=amd&style=for-the-badge "AMD RYZEN 7 3750H")
 ![NVIDIA GTX 1650](https://img.shields.io/static/v1?label=NVIDIA&message=GTX%201650&color=76b900&logo=nvidia&style=for-the-badge "NVIDIA GTX 1650")
 ![RAM 16GB](https://img.shields.io/static/v1?label=RAM&message=16GB&color=00adef&style=for-the-badge "RAM 16GB")
